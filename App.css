@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+  
+  background-color: rgb(198, 197, 200);
+}
+
+h1{
+  margin: 0;
+  margin-bottom: .5rem;
+  font-family: sans-serif;
+  font-weight: 0.13em;
+}
+.input{
+  border: 1px solid #333;
+  border-radius: .4em;
+  padding: .25rem;
+  width: 7em;
+}
+
+select{
+  margin-left: .5rem;
+}
+.equals{
+  text-align: center;
+  font-weight: bold;
+  justify-content: center;
+  font-size: 2rem;
+  display: flex;
+  margin-left: 10px;
+
+
+}
+
+.hr{
+  margin-top: 50px;
+}
